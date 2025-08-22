@@ -99,8 +99,8 @@ jupyter notebook "Model training/Algorithm selection/selection.ipynb"
 ## Results
 
 The SHAP-based framework achieves high prediction accuracy for precipitation-strengthened copper alloy properties:
-- **EC Prediction**: R² > 0.95 using optimized XGBoost for copper alloy electrical conductivity
-- **UTS Prediction**: R² > 0.90 using optimized CatBoost for copper alloy ultimate tensile strength
+- **EC Prediction**: R² > 0.98 using optimized XGBoost for copper alloy electrical conductivity
+- **UTS Prediction**: R² > 0.96 using optimized CatBoost for copper alloy ultimate tensile strength
 
 ## Model Performance for Copper Alloys
 
